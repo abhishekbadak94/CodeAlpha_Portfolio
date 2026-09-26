@@ -71,6 +71,10 @@ The portfolio is designed with a clean and attractive user interface and provide
     🔗 Live Portfolio:
             [https://abhishekbadak94.github.io/CodeAlpha_Portfolio/]
 
+            Netlify
+            Live Portfolio:
+            [https://neon-biscotti-525fba.netlify.app/]
+
     🎯 Internship 
 
         CodeAlpha - Frontend Development Internship
